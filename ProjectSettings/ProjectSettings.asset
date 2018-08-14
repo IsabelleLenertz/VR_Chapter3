@@ -696,10 +696,10 @@ PlayerSettings:
     Purchasing: 0
     UNet: 0
     Unity_Ads: 0
-  facebookSdkVersion: 
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: a8688613-dca3-46f4-b0ce-511daa8938f2
-  projectName: 
+  projectName: Project_Chapter3
   organizationId: anzu67
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
